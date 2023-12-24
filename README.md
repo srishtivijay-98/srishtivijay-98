@@ -55,7 +55,3 @@
 	<img src="https://github-readme-streak-stats.herokuapp.com/?user=srishtivijay-98&theme=dark" />
 	<img src="https://github-readme-stats.vercel.app/api?username=srishtivijay-98&hide=prs&show_icons=true&title_color=3380C4&icon_color=3380C4&text_color=edf2f7&bg_color=151515" /> 	
 </p>
-
- <p align="center">
-<a href="https://www.buymeacoffee.com/zed0" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-</p>
